@@ -21,3 +21,5 @@ packagingOptions {
         exclude 'lib/gson-2.2.2.jar'
     }
 ```
+
+This answer on StackOverFlow may help.- [Link](https://stackoverflow.com/a/49729185/7703497) 
